@@ -1,0 +1,7 @@
+#day la folder
+lib/
+#ignore nhieu file
+*.xml
+!img.xml
+#ignore dich danh file
+Born to ignore.txt
